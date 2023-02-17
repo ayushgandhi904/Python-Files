@@ -1,1 +1,1 @@
-# Full-end-to-end-DS-Projects
+# Fully end to end data science projects
